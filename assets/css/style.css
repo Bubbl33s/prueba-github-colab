@@ -1,0 +1,11 @@
+body {
+  background-image: url(https://content.wepik.com/statics/288915588/preview-page0.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+footer {
+  margin: 6% auto;
+  text-align: center;
+}
