@@ -1,7 +1,39 @@
 body {
+<<<<<<< HEAD
   background-color: darksalmon;
 }
 
 h2 {
   color: crimson;
 }
+=======
+  background-image: url(https://i.pinimg.com/736x/67/21/90/6721901e7fda5d901fc7c8f02453d49d.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-color: rgb(247, 126, 247);
+}
+
+img {
+  width: 300px;
+}
+
+footer {
+  margin: 6% auto;
+  text-align: center;
+}
+
+.nose {
+  font-size: 50px;
+}
+
+.boton {
+    background-color: rgb(172, 86, 172);
+}
+
+h3 {
+    color: rgba(188, 143, 143, 0.826);
+    background-color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+>>>>>>> aeb0f7cf26213348705a391c36e0407017a4d781
