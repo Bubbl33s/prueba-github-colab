@@ -1,13 +1,11 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Playwrite+PE:wght@100..400&display=swap');
-
-body{
-    font-family: "Playwrite PE", cursive;
-    color: rosybrown;
-    background-color: white;
-    text-align: center;
+body {
+  background-image: url(https://content.wepik.com/statics/288915588/preview-page0.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
-.nana{
-    height: 30%;
-    width: 30%;
+footer {
+  margin: 6% auto;
+  text-align: center;
 }
