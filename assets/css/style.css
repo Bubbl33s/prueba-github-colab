@@ -9,3 +9,12 @@ body {
 img {
   width: 300px;
 }
+
+footer {
+  margin: 6% auto;
+  text-align: center;
+}
+
+.nose {
+  font-size: 50px;
+}
